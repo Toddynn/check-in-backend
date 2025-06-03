@@ -1,0 +1,4 @@
+export enum EXPECTED_FEEDBACK_TYPE_OF_ANSWER {
+	'RATING' = 'RATING',
+	'TEXT' = 'TEXT',
+}
